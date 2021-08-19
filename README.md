@@ -2,7 +2,8 @@
 
 O projeto consiste em um sistema de reservas de salas para reuniões no coorporativo, com a possibilidade de cadastros, edições e exclusões das reservas. <br>
 - Back-end desenvolvido em Java + Spring Boot + Banco de dados H2. <br>
-- Front-end desenvolvido em [Angular CLI](https://github.com/angular/angular-cli) version 9.0.0-rc.7.
+- Front-end desenvolvido em [Angular CLI](https://github.com/angular/angular-cli) version 9.0.0-rc.7. 
+<p align="left">Vídeo demonstrativo no <a href="https://www.linkedin.com/feed/update/urn:li:activity:6834138551052058624/" target="_blank">LinkedIn</a></p>
 
 ## Instalação do Back-end
 
